@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="./banner.png" width="100%">
+
+</div>
+
 # 👋 Olá, eu sou Arthur Pereira
 
 <div align="center">
@@ -30,7 +36,7 @@ Construindo minha jornada através de programação, projetos e aprendizado cont
 
 🌎 Acredito que a tecnologia possui o poder de melhorar processos, conectar pessoas e gerar impacto através de boas soluções.
 
-> "A tecnologia transforma ideias em realidade quando conhecimento, criatividade e propósito trabalham juntos."
+>### "A tecnologia transforma ideias em realidade quando conhecimento, criatividade e propósito trabalham juntos."
 
 ---
 
@@ -48,7 +54,7 @@ Meus estudos estão focados em:
 
 🎯 Meu objetivo é evoluir constantemente, transformando conhecimento em projetos cada vez mais completos.
 
-> "Grandes resultados são construídos através da dedicação aos pequenos aprendizados do dia a dia."
+>### "Grandes resultados são construídos através da dedicação aos pequenos aprendizados do dia a dia."
 
 ---
 
@@ -121,7 +127,7 @@ O projeto tem como objetivo aplicar conceitos de:
 #### Python • POO • UML
 
 
-> "Projetos são a forma de transformar conhecimento em experiência."
+>### "Projetos são a forma de transformar conhecimento em experiência."
 
 ---
 
