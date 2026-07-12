@@ -14,9 +14,7 @@ Construindo minha jornada através de programação, projetos e aprendizado cont
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Artkl3r&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artkl3r&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Artkl3r&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -120,9 +118,8 @@ O projeto tem como objetivo aplicar conceitos de:
 
 **Tecnologias utilizadas:**
 
-> Python • POO • UML
+#### Python • POO • UML
 
----
 
 > "Projetos são a forma de transformar conhecimento em experiência."
 
@@ -158,9 +155,9 @@ Estou aberto a conversar sobre tecnologia, projetos e oportunidades.
 
 💼 LinkedIn: [Arthur Pereira](https://www.linkedin.com/in/arthur-pereira-faria-tech/)
 
-📧 [Entre em contato por e-mail](mailto:arthur.faria.tech@gmail.com?subject=Contato%20pelo%20GitHub)
+📧 Email: `arthur.faria.tech@gmail.com`
 
----
+📧 [Enviar e-mail](https://mail.google.com/mail/?view=cm&fs=1&to=arthur.faria.tech@gmail.com&su=Contato%20profissional%20pelo%20GitHub)
 
 <div align="center">
 
